@@ -4,6 +4,7 @@ title: "Hi"
 labels: ["dog"]
 assignees:
   - octocat
+projects: ["lemongrasss/100"]
 body:
   - type: markdown
     attributes:
