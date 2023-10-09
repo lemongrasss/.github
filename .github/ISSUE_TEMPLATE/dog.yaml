@@ -26,3 +26,11 @@ body:
         - Dasher
         - Connie
       default: 0
+  - type: dropdown
+    id: cat
+    attributes:
+      label: Which cat makes the best coding buddy?
+      options:
+        - Poseidon
+        - Snickers
+        - Ted
