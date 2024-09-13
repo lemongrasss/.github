@@ -1,7 +1,7 @@
 name: A form in .github created by non org admin
 description: File a bug report
 title: "[Bug]: "
-labels: ["triage"]
+labels: [triage,bug]
 assignees:
   - octocat
 body:
