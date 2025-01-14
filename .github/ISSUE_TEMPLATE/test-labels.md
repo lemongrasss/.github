@@ -1,5 +1,5 @@
 ---
-name: Another template
+name: labels test md
 about: Use this template for tracking new features.
 title: "[DATE]: [FEATURE NAME]"
 labels: deploy, cd-serverless
