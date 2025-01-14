@@ -1,7 +1,7 @@
 name: dog report
 description: File a dog report
 title: "Hi"
-labels: ["dog"]
+labels: ["bug", "dog"]
 assignees:
   - octocat
 projects: ["lemongrasss/62"]
