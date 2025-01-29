@@ -1,8 +1,8 @@
 ---
 name: labels test md
 about: Use this template for tracking new features.
-title: "[DATE]: [FEATURE NAME]"
-labels: deploy, cd-serverless
+title: "[Add more labels maybe"
+labels: deploy, cd-serverless, invalid
 assignees: octocat
 ---
 
