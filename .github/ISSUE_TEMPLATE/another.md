@@ -1,20 +1,13 @@
 ---
 name: Another template
 about: Use this template for tracking new features.
-title: "[DATE]: [FEATURE NAME]"
-labels: tracking issue, needs triage
+title: "[DATE]: [FEATURE NAME] create anotehr template"
+labels: tracking issue
 assignees: octocat
 ---
 
 body:
- - type: dropdown
-    id: Product-type
-    attributes:
-      label: Is this for a net new item?
-      options:
-       - 'Yes'
-       - 'No'
-      default: 0
+
  - type: markdown
     attributes:
      value: |
