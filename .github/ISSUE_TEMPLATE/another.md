@@ -8,26 +8,26 @@ assignees: octocat
 
 body:
 - type: markdown
-   attributes:
-    value: |
-     ```[tasklist]
-     ### Pre-work List
-     - [ ] Product in App Inventory
-     - [ ] Application Service CI
-     - [ ] Application CI: Support Matrix
-     - [ ] AIA
-     - [ ] AD Groups
-     - [ ] ISAM
-     - [ ] eSAF
-     - [ ] Application User Guide
-     - [ ] Knowledge Article/Solution Guide
-     - [ ] UAT Coordination
-     - [ ] Change Management/Request
-     - [ ] Pre-Release Communication
-     - [ ] GO LIVE/Deployment
-     - [ ] Post - Release Communication
-     - [ ] Update App Inventory Request
-     - [ ] Update App Inventory Product
-     ```
-
-     Please try this out!
+  attributes:
+     value: |
+        ```[tasklist]
+        ### Pre-work List
+        - [ ] Product in App Inventory
+        - [ ] Application Service CI
+        - [ ] Application CI: Support Matrix
+        - [ ] AIA
+        - [ ] AD Groups
+        - [ ] ISAM
+        - [ ] eSAF
+        - [ ] Application User Guide
+        - [ ] Knowledge Article/Solution Guide
+        - [ ] UAT Coordination
+        - [ ] Change Management/Request
+        - [ ] Pre-Release Communication
+        - [ ] GO LIVE/Deployment
+        - [ ] Post - Release Communication
+        - [ ] Update App Inventory Request
+        - [ ] Update App Inventory Product
+        ```
+      
+        Please try this out!
