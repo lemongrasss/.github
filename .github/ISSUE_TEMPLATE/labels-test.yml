@@ -1,7 +1,7 @@
 name: labels template test
 description: Testing label application
 title: "Hi"
-labels: ["deploy", "cd-serverless"]
+labels: ["deploy", "cd-serverless", "bug"]
 body:
   - type: markdown
     attributes:
