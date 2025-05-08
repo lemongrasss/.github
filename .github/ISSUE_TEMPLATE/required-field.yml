@@ -1,5 +1,6 @@
 description: File a bug report to help us improve
 title: '[Bug]: '
+name: 'Required field'
 labels: [bug, 'needs triage']
 assignees: []
 body:
