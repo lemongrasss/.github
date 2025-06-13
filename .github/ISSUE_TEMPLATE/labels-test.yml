@@ -2,6 +2,7 @@ name: labels template test
 description: Testing label application
 title: "Hi"
 labels: ["deploy", "cd-serverless", "bug"]
+type: Epic
 body:
   - type: markdown
     attributes:
