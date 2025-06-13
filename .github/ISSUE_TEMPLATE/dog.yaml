@@ -1,6 +1,7 @@
 name: dog report
 description: File a dog report
 title: "Hi"
+type: "Non-existent"
 labels: ["bug", "dog"]
 assignees:
   - octocat
