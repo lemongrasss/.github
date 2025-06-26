@@ -2,7 +2,7 @@
 name: Task
 about: A 1-2 days incremental bit of work
 labels: task
-type: task
+type: Task
 ---
 
 # Background
