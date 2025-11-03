@@ -1,7 +1,7 @@
 name: Feature Request
 description: Request a new feature
-title: "[Feature Request]: "
-type: "Feature"
+title: "[Feature]: "
+type: "Feature Request"
 projects: ["lemongrasss/231"]
 body:
   - type: markdown
