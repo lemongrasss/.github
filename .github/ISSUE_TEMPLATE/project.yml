@@ -1,0 +1,26 @@
+name: Feature Request
+description: Request a new feature
+title: "[Feature]: "
+type: "Feature"
+projects: ["lemongrasss/231"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please read and complete the full template below.
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: What you need?
+      description: Tell us, what do you need?
+      placeholder: Feature details, screen designs, db scripts, etc.
+    validations:
+      required: false
+  - type: checkboxes
+    id: attachments
+    attributes:
+      label: Any attachments?
+      description: Any attached screenshots/related docs. (You can drag files on to this issue)
+      options:
+        - label: I attached a sample screenshot/related docs.
+          required: false
